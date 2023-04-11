@@ -1,0 +1,18 @@
+.App {
+    --header_height: 60px;
+    background-color: aqua;
+    width: 1000px;
+    margin: auto;
+}
+
+.hw img {width: 66px;}
+.hw {
+
+  width: 800px;
+  margin: auto;
+}
+
+.hwTitle {
+  width: 800px;
+  margin: auto;
+}
